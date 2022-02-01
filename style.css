@@ -1,0 +1,15 @@
+  * {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  #wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: SeaShell;
+    background-image: url("img/stars_1.gif");
+    align-items: center;
+    justify-content: center;
+  }
